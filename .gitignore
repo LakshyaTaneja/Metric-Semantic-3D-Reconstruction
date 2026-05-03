@@ -1,0 +1,14 @@
+# Python artifacts
+venv/
+__pycache__/
+*.pyc
+
+# Large data and model weights
+dataset/
+outputs/
+exports/
+Grounded-Segment-Anything/
+training_data.zip
+*.ply
+*.pth
+*.pt
